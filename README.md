@@ -56,7 +56,7 @@ Contact Form 7 keeps doing what it does best — rendering, validating and submi
 
 1. Install and activate **Contact Form 7**.
 2. Copy this plugin into `wp-content/plugins/` and activate it.
-3. Open **CF7 Email Templates** in the admin menu.
+3. Open **Mailwright** in the admin menu.
 
 The nine starter templates are installed the first time an editor opens the admin with Contact Form 7 active. You can add any that are missing later from **Tools → Demo Templates**.
 

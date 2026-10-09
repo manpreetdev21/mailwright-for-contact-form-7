@@ -53,7 +53,7 @@ Mailwright for Contact Form 7 is a template layer for Contact Form 7. Contact Fo
 
 1. Install and activate Contact Form 7.
 2. Upload this plugin to `/wp-content/plugins/` and activate it.
-3. Go to **CF7 Email Templates** in the admin menu.
+3. Go to **Mailwright** in the admin menu.
 
 The nine starter templates are installed the first time an editor opens the admin with Contact Form 7 active. You can add any that are missing later from Tools.
 

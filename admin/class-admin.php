@@ -55,8 +55,8 @@ class MWRIGHT_Admin {
 		$cap = MWRIGHT_Plugin::cap();
 
 		self::$hooks['dashboard'] = add_menu_page(
-			__( 'CF7 Email Templates', 'mailwright-for-contact-form-7' ),
-			__( 'CF7 Email Templates', 'mailwright-for-contact-form-7' ),
+			__( 'Mailwright for Contact Form 7', 'mailwright-for-contact-form-7' ),
+			__( 'Mailwright', 'mailwright-for-contact-form-7' ),
 			$cap,
 			'mwright',
 			array( __CLASS__, 'render_dashboard' ),

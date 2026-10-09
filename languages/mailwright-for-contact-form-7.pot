@@ -253,7 +253,7 @@ msgstr ""
 
 #: admin/class-admin.php:36
 #: admin/class-admin.php:37
-msgid "CF7 Email Templates"
+msgid "Mailwright for Contact Form 7"
 msgstr ""
 
 #: admin/class-admin.php:134
