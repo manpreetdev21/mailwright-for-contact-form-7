@@ -1,0 +1,9 @@
+# Files that belong in the repository but not in the distributed plugin.
+# bin/build-zip.php reads this list.
+.git
+.gitignore
+.distignore
+bin
+tests
+node_modules
+*.zip

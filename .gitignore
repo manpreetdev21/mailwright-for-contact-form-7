@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.sublime-*
+*.swp
+*~
+
+# Logs and local scratch
+*.log
+/tests/output/
+
+# Compiled translations (built from the .pot at release time)
+languages/*.mo
+
+# If tooling is ever added
+/node_modules/
+/vendor/
